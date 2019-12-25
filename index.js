@@ -11,14 +11,13 @@ if(!(args&&args.length)){
     return
 }
 
-process.stdout.on("error",(e)=>{
-    console.error(e)
-})
+// process.stdout.on("error",(e)=>{
+//     console.error(e)
+// })
 
 console.time('requireAnalize')
-const fs =require('fs')
+// const fs =require('fs')
 parsePath(path.join(__dirname,args[0]),0,path.join(__dirname,args[0])).then(res=>{
-    // console.log(JSON.stringify(res,null,5))
     console.timeEnd('requireAnalize')
-    // fs.writeFileSync('./output.json',JSON.stringify(res,null,5))
-}).catch(e=>console.error);
+    fs.writeFileSync('./output.json',JSON.stringify(res,null,5))
+}).catch(console.error);
