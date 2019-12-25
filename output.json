@@ -1,0 +1,3073 @@
+{
+     "boot/GuildWars/app.js": [
+          "module/page/GuildWars/GuildWars.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/GuildWars11/app.js": [
+          "module/page/GuildWars11/GuildWars11.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/GuildWars12/app.js": [
+          "module/page/GuildWars12/GuildWars12.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/actattation/app.js": [
+          "module/page/actattation/actattation.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/activity-diamond/app.js": [
+          "module/page/activity-diamond/activity-diamond.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/adduppay/app.js": [
+          "module/page/adduppay/adduppay.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/anchor-recruit/app.js": [
+          "module/page/anchor-recruit/anchor-recruit.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/android/app.js": [],
+     "boot/boot/app.js": [
+          "module/page/account/account.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/bridge/app.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/capital/app.js": [
+          "module/common/util/util.js",
+          "module/page/capital/capital.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/page/history/history.js"
+     ],
+     "boot/carnival/app.js": [
+          "module/page/carnival/carnival.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/cert/app.js": [
+          "module/page/cert/cert.js",
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/bank/bank.js",
+          "module/model/area/area.js"
+     ],
+     "boot/cert-new/app.js": [
+          "module/page/certNew/certNew.js",
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/bank/bank.js",
+          "module/model/area/area.js"
+     ],
+     "boot/certComplete/app.js": [
+          "module/page/certComplete/certComplete.js",
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "boot/chatbox-frame/app.js": [],
+     "boot/coinRecord/app.js": [
+          "module/page/coinRecord/coinRecord.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/page/dialog/dialog.js"
+     ],
+     "boot/coinRedPackage/app.js": [
+          "module/page/coinRedPackage/coinRedPackage.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/coinTask/app.js": [
+          "module/page/coinTask/coinTask.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/common/api1/api1.js",
+          "module/common/toast/toast.js"
+     ],
+     "boot/coinThread/app.js": [
+          "module/page/coinThread/coinThread.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/page/dialog/dialog.js"
+     ],
+     "boot/coinThreadDetail/app.js": [
+          "module/page/coinThreadDetail/coinThreadDetail.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/coinValidation/app.js": [
+          "module/page/coinValidation/coinValidation.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "boot/collectStamp/app.js": [
+          "module/page/collectStamp/collectStamp.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/api/api.js",
+          "module/page/collectStamp/store.js"
+     ],
+     "boot/double11/app.js": [
+          "module/page/double11/double11.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "boot/doubletu/app.js": [
+          "module/page/doubletu/doubletu.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "boot/drawinfo/app.js": [
+          "module/page/drawinfo/drawinfo.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "boot/egg2smash/app.js": [
+          "module/page/egg2smash/egg2smash.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/eggNews/app.js": [
+          "module/page/eggNews/eggNews.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/eggNewsDesc/app.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/eggNewsMin/app.js": [
+          "module/page/eggNewsMin/eggNewsMin.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/eggNewsRecord/app.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/entry/index.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/faq/app.js": [
+          "module/page/faq/faq.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/flyerpage/app.js": [
+          "module/page/flyerpage/flyerpage.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/flexble/flexble.js"
+     ],
+     "boot/flyerpage/data.js": [],
+     "boot/flyerpage/m.js": [],
+     "boot/flyerpageList/app.js": [
+          "module/page/flyerpageList/flyerpageList.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/flexble/flexble.js"
+     ],
+     "boot/flyerpageList/data.js": [],
+     "boot/flyerpageList/m.js": [],
+     "boot/giftRecord/app.js": [
+          "module/page/giftRecord/giftRecord.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/goddess/app.js": [
+          "module/page/goddess/goddess.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/guard/app.js": [
+          "module/page/guard/guard.js",
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/guard-rank/app.js": [
+          "module/page/guard-rank/guard-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/guessing/app.js": [
+          "module/page/guessing/guessing.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/guessing_exchange/app.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/guide/app.js": [
+          "module/page/txGuide/txGuide.js",
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "boot/guideConfig/app.js": [
+          "module/page/guideConfig/guideConfig.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/guideConfigDetail/app.js": [
+          "module/page/guideConfigDetail/guideConfigDetail.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/history/app.js": [
+          "module/page/history/history.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "boot/invest-rank/app.js": [
+          "module/page/invest-rank/invest-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/invitationCode/app.js": [
+          "module/page/invitationCode/invitationCode.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api1/api1.js",
+          "module/common/toast/toast.js"
+     ],
+     "boot/invoice/app.js": [
+          "module/page/invoice/invoice/invoice.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/model/userAuth/userAuth.js",
+          "module/common/toast/toast.js",
+          "module/widget/invoice/note/note.js",
+          "module/widget/invoice/added-tax/added-tax.js",
+          "module/widget/invoice/info/info.js"
+     ],
+     "boot/invoice-success/app.js": [
+          "module/page/invoice-success/invoice-success.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/invoice/note/note.js",
+          "module/widget/invoice/added-tax/added-tax.js",
+          "module/common/toast/toast.js",
+          "module/widget/invoice/info/info.js"
+     ],
+     "boot/legion/app.js": [
+          "module/page/legion/legion.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/legionSec/app.js": [
+          "module/page/legionSec/legion.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/level/app.js": [
+          "module/page/level/level.js",
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "boot/level-rank/app.js": [
+          "module/page/level-rank/level-rank.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/luckyAct/app.js": [
+          "module/page/luckyAct/luckyAct.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/luckyBag/app.js": [
+          "module/page/luckyBag/luckyBag.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/m-rank/app.js": [
+          "module/page/m-rank/m-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/main/app.js": [
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/page/index/index.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/widget/header/header.js",
+          "module/widget/sliders/sliders.js",
+          "module/widget/videos/videos.js",
+          "module/widget/video/video.js",
+          "module/common/dialog/dialog.js",
+          "module/page/room/room.js",
+          "module/widget/room/baidu/full_screen/full_screen.js",
+          "module/widget/player/player.js",
+          "module/widget/chatBox/chatBox.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/widget/card/card.js",
+          "module/widget/room/baidu/default/default.js",
+          "module/widget/room/common/default/default.js",
+          "module/widget/roomUser/roomUser.js",
+          "module/widget/room/common/full_screen/full_screen.js",
+          "module/page/category/category.js",
+          "module/page/list/list.js",
+          "module/page/welcome/welcome.js",
+          "module/page/test/test.js",
+          "module/page/register/register.js",
+          "module/page/login/login.js",
+          "module/page/fwLogin/fwLogin.js",
+          "module/page/recharge/recharge.js",
+          "module/page/guard/guard.js",
+          "module/page/account/account.js",
+          "module/page/phone/phone.js",
+          "module/page/article/article.js",
+          "module/page/bindPhone/bindPhone.js",
+          "module/widget/progress/progress.js"
+     ],
+     "boot/main/js/app.js": [],
+     "boot/main/js/flexible.js": [],
+     "boot/main/js/flexible_css.js": [],
+     "boot/manual/app.js": [
+          "module/page/manual/manual.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/medal-act/app.js": [
+          "module/page/medal-act/medal-act.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "boot/midAutumnAct/app.js": [
+          "module/page/midAutumnAct/midAutumnAct.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/monthly-rank/app.js": [
+          "module/page/monthly-rank/monthly-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/mounts-rank/app.js": [
+          "module/page/mounts-rank/mounts-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "boot/mr/app.js": [
+          "module/page/game/game.js",
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "boot/myCoin/app.js": [
+          "module/page/myCoin/myCoin.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/nationDay/app.js": [
+          "module/page/nationDay/nationDay.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/new-bridge/app.js": [],
+     "boot/new-bridge/bridge.js": [],
+     "boot/new-bridge/log.js": [],
+     "boot/newDownload/app.js": [
+          "module/page/newDownload/newDownload.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/nick/app.js": [
+          "module/page/nick/nick.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/noble-rank/app.js": [
+          "module/page/noble-rank/noble-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/nobleAct/app.js": [
+          "module/page/nobleAct/nobleAct.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/nobleDesc/app.js": [
+          "module/page/nobleDesc/nobleDesc.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "boot/nobleOpen/app.js": [
+          "module/page/nobleOpen/nobleOpen.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/noblePriv/app.js": [
+          "module/page/noblePriv/noblePriv.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "boot/nobleRecord/app.js": [
+          "module/page/nobleRecord/nobleRecord.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/nobles/app.js": [
+          "module/page/nobles/nobles.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "boot/pet/petcenter/app.js": [
+          "module/page/pet/petcenter/petcenter.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/toast/toast.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "boot/pet/petcenter/petdetail.js": [
+          "module/page/pet/petdetail/petdetail.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/toast/toast.js"
+     ],
+     "boot/pet/petcenter/petrenew.js": [
+          "module/page/pet/petrenew/petrenew.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "boot/pet/room/app.js": [
+          "module/page/pet/petroom/petroom.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "boot/popularityList/app.js": [
+          "module/page/popMatch/popMatch.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "boot/privs/app.js": [
+          "module/page/privs/privs.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "boot/promotion-page/app.js": [
+          "module/page/promotion-page/promotion-page.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/promotion-page_two/app.js": [
+          "module/page/promotion-page_two/promotion-page_two.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/recharge-activity/app.js": [
+          "module/page/recharge-activity/recharge-activity.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/record/app.js": [
+          "module/page/record/record.js",
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/result/app.js": [
+          "module/page/certResult/certResult.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "boot/result-new/app.js": [
+          "module/page/certResultNew/certResultNew.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "boot/rotaryTable/app.js": [
+          "module/page/rotaryTable/rotaryTable.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/seventhMoon/app.js": [
+          "module/page/seventhMoon/seventhMoon.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/shareAct/app.js": [
+          "module/page/shareAct/shareAct.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "boot/shareActimg/app.js": [
+          "module/page/shareActimg/shareActimg.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "boot/shareh5-rank/app.js": [
+          "module/page/shareh5-rank/shareh5-rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/smashedEgg/app.js": [
+          "module/page/smashedEgg/smashedEgg.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/special/activity/act.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js",
+          "module/widget/special/rank-act/rank-act.js",
+          "module/widget/special/slider/slider.js",
+          "module/widget/special/tab/tab.js"
+     ],
+     "boot/special/activity/bridge.js": [],
+     "boot/special/activity/labor.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/api/api.js",
+          "module/widget/special/rank-act/rank-act.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js"
+     ],
+     "boot/special/activity/roomrank.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/api/api.js",
+          "module/widget/special/rank-act/rank-act.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js"
+     ],
+     "boot/special/chinaJoyApp/chinaJoyApp.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/special/fans/fans.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/special/gossip/gossip.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/special/guess/guess.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/special/hetiup/hetiup.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/special/lianmaiRank/lianmaiRank.js": [
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/special/maintain/maintain.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/special/newYear1/index.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/special/newYear2/index.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/special/promotion/promotion.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/toast/toast.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js"
+     ],
+     "boot/special/qmsd/bridge.js": [],
+     "boot/special/qmsd/join.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/widget/special/rank/rank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/widget/special/slider/slider.js",
+          "module/widget/special/tab/tab.js",
+          "module/widget/special/categoryInfo/categoryInfo.js",
+          "module/widget/special/dialog/dialog.js",
+          "module/common/api/api.js",
+          "module/model/user/user.js",
+          "module/widget/special/rule/rule.js"
+     ],
+     "boot/special/recruit/recruit.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "boot/special/rooster_run/rooster_run.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js"
+     ],
+     "boot/special/showingEntry/app.js": [
+          "module/page/showingEntry/entry.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/special/total_rank/app.js": [
+          "module/widget/special/rank-act/rank-act.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "boot/special/valenRank/valenRank.js": [
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/special/valentinesday/valentinesday.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js"
+     ],
+     "boot/special/weekstar/weekstar.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/model/user/user.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/special/weekstar2/game_room/game_room.js": [
+          "module/page/weekstar2/game_room/game_room.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "boot/special/weekstar2/page/page.js": [
+          "module/page/weekstar2/page/page.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "boot/special/weekstar2/showing_entry/showing_entry.js": [
+          "module/page/weekstar2/showing_entry/showing_entry.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/special/weekstar2/showing_room/showing_room.js": [
+          "module/page/weekstar2/showing_room/showing_room.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "boot/stampbook/app.js": [
+          "module/common/device/device.js",
+          "module/common/util/util.js",
+          "module/page/stampBook/index.js",
+          "module/common/api/api.js"
+     ],
+     "boot/star-change/app.js": [
+          "module/page/star-change/star-change.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/starNews/app.js": [
+          "module/page/starNews/starNews.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "boot/storehouse/app.js": [
+          "module/page/storehouse/storehouse.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "boot/testci/app.js": [
+          "module/page/testci/testci.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/together-pk/app.js": [
+          "module/page/together-pk/together-pk.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js"
+     ],
+     "boot/together-pk-pop/app.js": [
+          "module/page/together-pk-pop/together-pk-pop.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/tuji-app/app.js": [
+          "module/page/tuji-app/tuji-app.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/tuji-page1/app.js": [
+          "module/page/tuji-page1/tuji-page1.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/tuji-page2/app.js": [
+          "module/page/tuji-page2/tuji-page2.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/tuji-page3/app.js": [
+          "module/page/tuji-page3/tuji-page3.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/tujidownload/app.js": [
+          "module/page/tujidownload/tujidownload.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/turn-table/app.js": [
+          "module/page/turn-table/turn-table.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/userShareRank/app.js": [
+          "module/page/userShareRank/userShareRank.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "boot/veriPrompt/app.js": [
+          "module/page/task/task.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "boot/weekStar/app.js": [
+          "module/page/weekStar/weekStar.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/weekroom/app.js": [
+          "module/page/weekroom/weekroom.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "boot/wxInvitation/app.js": [
+          "module/page/wxInvitation/wxInvitation.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "boot/yearRanks/app.js": [
+          "module/page/yearRanks/yearRanks.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "boot/zt-love/app.js": [
+          "module/page/zt-love/zt-love.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "fis-conf.js": [],
+     "lib/backbone/backbone.js": [],
+     "lib/backbone.wreqr/backbone.wreqr.js": [],
+     "lib/bridge/bridge-lite.js": [],
+     "lib/bridge/bridge.js": [],
+     "lib/bscroll/bscroll.js": [],
+     "lib/chat/chat.js": [],
+     "lib/chat/flexible.js": [],
+     "lib/chat/flexible_css.js": [],
+     "lib/chat/qmt.js": [],
+     "lib/chat/websocket.js": [],
+     "lib/chatlist/chatlist.js": [],
+     "lib/clipboard/clipboard.js": [],
+     "lib/clipboard/clipboard.min.js": [],
+     "lib/commander/commander.js": [],
+     "lib/commander/parse.js": [],
+     "lib/common.js": [],
+     "lib/console/console.js": [],
+     "lib/cookie/cookie.js": [],
+     "lib/device/device.js": [],
+     "lib/event/event.js": [],
+     "lib/fastclick/fastclick.js": [],
+     "lib/fastclick.js": [],
+     "lib/filter/filter.js": [],
+     "lib/geetest/geetest.js": [],
+     "lib/hook/hook.js": [],
+     "lib/hook/test.js": [],
+     "lib/iscroll/doT.js": [],
+     "lib/iscroll/iscroll.js": [],
+     "lib/iscroll/iscroll_4.js": [],
+     "lib/lazyload/lazyload.js": [],
+     "lib/lib.js": [],
+     "lib/log/log.js": [],
+     "lib/lv/lv.js": [],
+     "lib/magic/magic.js": [],
+     "lib/md/md.js": [],
+     "lib/page/page.js": [],
+     "lib/patch/core.min.js": [],
+     "lib/patch/library.min.js": [],
+     "lib/patch/polyfill.min.js": [],
+     "lib/patch/shim.min.js": [],
+     "lib/pb-socket/DMSrv.js": [],
+     "lib/pb-socket/DMSrv_compiled.js": [],
+     "lib/pb-socket/crc32.js": [],
+     "lib/pb-socket/jquery-2.2.3.min.js": [],
+     "lib/pb-socket/protobuf.min.js": [],
+     "lib/pb-socket/registers.js": [],
+     "lib/qm-perf/qm-perf.js": [],
+     "lib/store/store.js": [],
+     "lib/swiper/swiper.js": [],
+     "lib/tap/tap.js": [],
+     "lib/tools/challenge.js": [],
+     "lib/tools/device.js": [],
+     "lib/tools/global.js": [],
+     "lib/tools/servernow.js": [],
+     "lib/transition/transition.js": [],
+     "lib/underscore/underscore.js": [],
+     "lib/vue/vue.js": [],
+     "lib/wechat/wechat.js": [],
+     "lib/zepto/zepto.js": [],
+     "module/common/api/api.js": [],
+     "module/common/api1/api1.js": [],
+     "module/common/bank/bank.js": [],
+     "module/common/baseCollection/baseCollection.js": [],
+     "module/common/baseModel/_baseModel.js": [],
+     "module/common/baseModel/baseModel.js": [],
+     "module/common/baseView/baseView.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/common/device/device.js": [
+          "module/common/util/util.js"
+     ],
+     "module/common/dialog/dialog.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/common/effect/effect.js": [],
+     "module/common/flexble/flexble.js": [],
+     "module/common/h5_plugin/h5_plugin.js": [],
+     "module/common/log/log.js": [],
+     "module/common/lv/lv.js": [],
+     "module/common/signature/xtools.go.js": [],
+     "module/common/syApi/syApi.js": [
+          "module/common/util/util.js"
+     ],
+     "module/common/toast/toast.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/common/util/url.js": [],
+     "module/common/util/util.js": [],
+     "module/common/util/util.spec.js": [],
+     "module/model/area/area.js": [],
+     "module/model/category/category.js": [],
+     "module/model/index/index.js": [],
+     "module/model/user/authCheck.js": [],
+     "module/model/user/user.js": [
+          "module/common/api/api.js",
+          "module/common/device/device.js",
+          "module/common/util/util.js"
+     ],
+     "module/model/userAuth/userAuth.js": [],
+     "module/page/GuildWars/GuildWars.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/GuildWars11/GuildWars11.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/GuildWars12/GuildWars12.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/acGuide/acGuide.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/account/account.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/accountDetail/accountDetail.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/actattation/actattation.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/activity-diamond/activity-diamond.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/adduppay/adduppay.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/anchor-recruit/anchor-recruit.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/article/article.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/bindPhone/bindPhone.js": [
+          "module/widget/header/header.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/capital/capital.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/carnival/carnival.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "module/page/category/category.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/cert/cert.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/bank/bank.js",
+          "module/model/area/area.js"
+     ],
+     "module/page/certComplete/certComplete.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/certNew/certNew.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/bank/bank.js",
+          "module/model/area/area.js"
+     ],
+     "module/page/certResult/certResult.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/certResultNew/certResultNew.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/chatBoxFrame/chatBoxFrame.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/coinRecord/coinRecord.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/page/dialog/dialog.js"
+     ],
+     "module/page/coinRedPackage/coinRedPackage.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/coinTask/coinTask.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/common/api1/api1.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/coinTask/lib/debounce.js": [],
+     "module/page/coinThread/coinThread.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/page/dialog/dialog.js"
+     ],
+     "module/page/coinThreadDetail/coinThreadDetail.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/coinValidation/coinValidation.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/collectStamp/collectStamp.js": [],
+     "module/page/collectStamp/store.js": [],
+     "module/page/collectStamp/widget/dialog/index.js": [],
+     "module/page/collectStamp/widget/luckStamp/index.js": [
+          "module/page/collectStamp/widget/luckStamp/widget/lottoDialog/index.js",
+          "module/page/collectStamp/widget/luckStamp/widget/alertDialog/index.js",
+          "module/page/collectStamp/widget/dialog/index.js",
+          "module/page/collectStamp/widget/luckStamp/widget/grantDialog/index.js",
+          "module/page/collectStamp/widget/luckStamp/widget/recordDialog/index.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/collectStamp/widget/luckStamp/widget/alertDialog/index.js": [
+          "module/page/collectStamp/widget/dialog/index.js"
+     ],
+     "module/page/collectStamp/widget/luckStamp/widget/grantDialog/index.js": [
+          "module/page/collectStamp/widget/dialog/index.js"
+     ],
+     "module/page/collectStamp/widget/luckStamp/widget/lottoDialog/index.js": [],
+     "module/page/collectStamp/widget/luckStamp/widget/recordDialog/index.js": [
+          "module/page/collectStamp/widget/dialog/index.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/index.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/collectStamp/widget/myCollect/widget/gift/index.js",
+          "module/page/collectStamp/widget/myCollect/widget/gift/widget/giftProgress/index.js",
+          "module/common/api/api.js",
+          "module/page/collectStamp/widget/myCollect/widget/mogul/index.js",
+          "module/page/collectStamp/widget/myCollect/widget/mogul/widget/mogulProgress/index.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/widget/confirmDialog/index.js": [
+          "module/page/collectStamp/widget/dialog/index.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/widget/gift/index.js": [
+          "module/page/collectStamp/widget/myCollect/widget/gift/widget/giftProgress/index.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/widget/gift/widget/giftProgress/index.js": [
+          "module/common/api/api.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/widget/mogul/index.js": [
+          "module/page/collectStamp/widget/myCollect/widget/mogul/widget/mogulProgress/index.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/widget/mogul/widget/mogulProgress/index.js": [
+          "module/common/api/api.js"
+     ],
+     "module/page/collectStamp/widget/myCollect/widget/successDialog/index.js": [
+          "module/page/collectStamp/widget/dialog/index.js"
+     ],
+     "module/page/dialog/dialog.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/double11/components/activeContent/activeContent.js": [],
+     "module/page/double11/components/activeList/activeList.js": [
+          "module/common/util/util.js",
+          "module/common/toast/toast.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/double11/components/activeReward/activeReward.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/double11/double11.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/doubletu/doubletu.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "module/page/drawinfo/drawinfo.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/drawinfo/fill_info/fill_info.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/drawinfo/launch/launch.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/drawinfo/my_faqi/my_faqi.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/drawinfo/mypart_info/mypart_info.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/drawinfo/partake/partake.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/drawinfo/pending/pending.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/drawinfo/sended/sended.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/egg2smash/egg2smash.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/eggNews/components/explain/explain.js": [],
+     "module/page/eggNews/components/goldEgg/goldEgg.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/eggNews/components/record/record.js": [],
+     "module/page/eggNews/components/silverEgg/silverEgg.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/eggNews/components/winPannel/winPannel.js": [],
+     "module/page/eggNews/eggNews.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/eggNewsMin/components/explain/explain.js": [],
+     "module/page/eggNewsMin/components/goldEgg/goldEgg.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/eggNewsMin/components/record/record.js": [],
+     "module/page/eggNewsMin/components/silverEgg/silverEgg.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/eggNewsMin/components/winPannel/winPannel.js": [],
+     "module/page/eggNewsMin/eggNewsMin.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/exchangeGift/choose_gift/choose_gift.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/exchangeGift/exchangeGift.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/exchangeGift/submit_info/submit_info.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/faq/faq.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/flyerpage/flyerpage.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/flyerpageList/flyerpageList.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/fwLogin/fwLogin.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/game/detail.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game/frame.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game/game.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game/listApp.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game/listDownload.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game/listH5.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game_test/detail.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game_test/frame.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game_test/game.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game_test/listApp.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/game_test/listH5.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/giftRecord/giftRecord.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/goddess/goddess.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "module/page/guard/guard.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/guard-rank/guard-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/guessing/guessing.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "module/page/guideConfig/guideConfig.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/guideConfigDetail/guideConfigDetail.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/hardstar/entry/entry.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/hardstar/hardstar.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/history/history.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/hongbaoAccount/hongbaoAccount.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/hongbaoDetail/hongbaoDetail.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/hongbaoLand/hongbaoLand.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/hongbaoRank/hongbaoRank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/lv/lv.js"
+     ],
+     "module/page/hongbaoTip/hongbaoTip.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/index/index.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/widget/sliders/sliders.js",
+          "module/widget/videos/videos.js",
+          "module/widget/video/video.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/invest-rank/invest-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/invitationCode/invitationCode.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api1/api1.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/invoice/detail/detail.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/invoice/invoice/invoice.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/model/userAuth/userAuth.js",
+          "module/common/toast/toast.js",
+          "module/widget/invoice/note/note.js",
+          "module/widget/invoice/added-tax/added-tax.js",
+          "module/widget/invoice/info/info.js"
+     ],
+     "module/page/invoice/list/list.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/invoice/note/note.js"
+     ],
+     "module/page/invoice/success/success.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/invoice/note/note.js",
+          "module/widget/invoice/added-tax/added-tax.js",
+          "module/common/toast/toast.js",
+          "module/widget/invoice/info/info.js"
+     ],
+     "module/page/invoice-success/invoice-success.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/invoice/note/note.js",
+          "module/widget/invoice/added-tax/added-tax.js",
+          "module/common/toast/toast.js",
+          "module/widget/invoice/info/info.js"
+     ],
+     "module/page/legion/components/activities/activities.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/legion/components/bestLegion/bestLegion.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/legion/components/myLegion/myLegion.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/legion/legion.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/legionSec/components/activities/activities.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/legionSec/components/bestLegion/bestLegion.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/legionSec/components/listLegion/listLegion.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/legionSec/legion.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/level/level.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/level-rank/level-rank.js": [
+          "module/common/api/api.js",
+          "module/widget/header/header.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/list/game/game.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/list/list.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/login/login.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/luckyAct/luckyAct.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/luckyBag/components/explain/explain.js": [],
+     "module/page/luckyBag/components/general/general.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "module/page/luckyBag/components/record/record.js": [],
+     "module/page/luckyBag/components/superior/superior.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "module/page/luckyBag/components/winPannel/winPannel.js": [],
+     "module/page/luckyBag/luckyBag.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/m-rank/m-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/manual/manual.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/medal-act/medal-act.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/midAutumnAct/midAutumnAct.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/moneyRecord/moneyRecord.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/moneyReward/moneyReward.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/moneyTxGuide/moneyTxGuide.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/monthly-rank/monthly-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/mounts-rank/mounts-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/myCoin/data/record.js": [],
+     "module/page/myCoin/lib/scrollLoad.js": [],
+     "module/page/myCoin/myCoin.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/nationDay/components/activityDetail/activityDetail.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/nationDay/components/activityList/activityList.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/nationDay/components/smokeHouse/smokeHouse.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/nationDay/nationDay.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/newDownload/newDownload.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/nick/nick.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/noble-rank/noble-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/nobleAct/nobleAct.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/nobleDesc/nobleDesc.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "module/page/nobleOpen/nobleOpen.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/noblePriv/childs/addhot/addhot.js": [],
+     "module/page/noblePriv/childs/broadcast/broadcast.js": [],
+     "module/page/noblePriv/childs/card/card.js": [],
+     "module/page/noblePriv/childs/contribution/contribution.js": [],
+     "module/page/noblePriv/childs/danmu/danmu.js": [],
+     "module/page/noblePriv/childs/gag/gag.js": [],
+     "module/page/noblePriv/childs/hot/hot.js": [],
+     "module/page/noblePriv/childs/introduce/introduce.js": [],
+     "module/page/noblePriv/childs/introduce_template/introduce_template.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/noblePriv/childs/invisible/invisible.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/noblePriv/childs/lianmai/lianmai.js": [],
+     "module/page/noblePriv/childs/medal/medal.js": [],
+     "module/page/noblePriv/childs/noblegift/noblegift.js": [],
+     "module/page/noblePriv/childs/openNotice/openNotice.js": [],
+     "module/page/noblePriv/childs/rRank/rRank.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/noblePriv/childs/recommend/recommend.js": [],
+     "module/page/noblePriv/childs/richRank/richRank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/noblePriv/childs/scollRank/scollRank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/noblePriv/childs/search/search.js": [],
+     "module/page/noblePriv/childs/tiren/tiren.js": [
+          "module/common/util/util.js"
+     ],
+     "module/page/noblePriv/childs/upgrade/upgrade.js": [],
+     "module/page/noblePriv/childs/vip/vip.js": [],
+     "module/page/noblePriv/childs/welcome/welcome.js": [],
+     "module/page/noblePriv/common/componentSetting.js": [],
+     "module/page/noblePriv/noblePriv.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/nobleRecord/nobleRecord.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/nobles/nobles.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "module/page/pet/petcenter/petcenter.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/toast/toast.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/pet/petdetail/petdetail.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/pet/petrenew/petrenew.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/pet/petroom/adopt/adopt.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/pet/petroom/choose/choose.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/pet/petroom/petroom.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/pet/petroom/rank/rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/pet/petroom/result/result.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/phone/phone.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/popMatch/popMatch.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "module/page/privs/privs.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/promotion-page/promotion-page.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/promotion-page_two/promotion-page_two.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/qmmglive/qmmglive.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/qmqydownload/qmqydownload.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/recharge/recharge.js": [
+          "module/common/api/api.js",
+          "module/common/util/util.js",
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/recharge-activity/recharge-activity.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/record/record.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/register/register.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/room/room.js": [
+          "module/common/api/api.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/widget/room/baidu/full_screen/full_screen.js",
+          "module/widget/player/player.js",
+          "module/widget/chatBox/chatBox.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/card/card.js",
+          "module/widget/room/baidu/default/default.js",
+          "module/widget/room/common/default/default.js",
+          "module/widget/roomUser/roomUser.js",
+          "module/widget/room/common/full_screen/full_screen.js"
+     ],
+     "module/page/rotaryTable/components/explain/explain.js": [],
+     "module/page/rotaryTable/components/general/general.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/rotaryTable/components/hecheng/hecheng.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/rotaryTable/components/record/record.js": [],
+     "module/page/rotaryTable/components/superior/superior.js": [
+          "module/common/dialog/dialog.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/rotaryTable/components/winPannel/winPannel.js": [],
+     "module/page/rotaryTable/rotaryTable.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/seventhMoon/seventhMoon.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/shareAct/shareAct.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "module/page/shareActimg/shareActimg.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "module/page/shareh5-rank/shareh5-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/showingEntry/entry.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/smashedEgg/smashedEgg.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/stampBook/index.js": [
+          "module/common/api/api.js"
+     ],
+     "module/page/stampBook/widget/stampCheckDialog/index.js": [],
+     "module/page/star-change/star-change.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/starNews/starNews.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/dialog/dialog.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "module/page/starsd/chapion_rank.js": [],
+     "module/page/starsd/entry/entry.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/starsd/starsd.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/starsd/three_rank.js": [],
+     "module/page/storehouse/storehouse.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/page/toastnormal/toastnormal.js"
+     ],
+     "module/page/task/task.js": [
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/test/test.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/testci/testci.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/toast/toast.js": [],
+     "module/page/toastnormal/toastnormal.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/together-pk/components/pk-rank/pk-rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/together-pk/together-pk.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js"
+     ],
+     "module/page/together-pk-pop/together-pk-pop.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/tuji-app/tuji-app.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/tuji-page1/tuji-page1.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/tuji-page2/tuji-page2.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/tuji-page3/tuji-page3.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/tujidownload/tujidownload.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/turn-table/turn-table.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/txGuide/txGuide.js": [
+          "module/common/api/api.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js"
+     ],
+     "module/page/txTip/txTip.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/userShare/userShare.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "module/page/userShareRank/userShareRank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/h5_plugin/h5_plugin.js"
+     ],
+     "module/page/voteResult/voteResult.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/weekStar/weekStar.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/weekroom/weekroom.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/widget/header/header.js"
+     ],
+     "module/page/weekstar2/game_room/game_room.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/weekstar2/page/page.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/weekstar2/showing_entry/showing_entry.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/weekstar2/showing_room/showing_room.js": [
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/common/api/api.js"
+     ],
+     "module/page/welcome/welcome.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/wxInvitation/lib/clipboard.js": [],
+     "module/page/wxInvitation/wxInvitation.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/page/yearRanks/yearRanks.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/page/zt-love/zt-love.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/card/card.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/chatBox/chatBox.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js",
+          "module/widget/card/card.js"
+     ],
+     "module/widget/chatBox/horizontal/horizontal.js": [],
+     "module/widget/chatBox/vertical/vertical.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/chatSender/chatSender.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/widget/download/download.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/gift/gift.js": [
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/widget/header/header.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/invoice/added-tax/added-tax.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/widget/invoice/info/info.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/toast/toast.js"
+     ],
+     "module/widget/invoice/note/note.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/widget/login/login.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/loginPannel/loginPannel.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ],
+     "module/widget/loginout/loginout.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/player/player.js": [
+          "module/common/api/api.js",
+          "module/common/util/util.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/progress/progress.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/room/baidu/default/default.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/widget/player/player.js",
+          "module/widget/chatBox/chatBox.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/card/card.js"
+     ],
+     "module/widget/room/baidu/full_screen/full_screen.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/widget/player/player.js",
+          "module/widget/chatBox/chatBox.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/card/card.js"
+     ],
+     "module/widget/room/common/default/default.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/widget/player/player.js",
+          "module/widget/chatBox/chatBox.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/card/card.js",
+          "module/widget/roomUser/roomUser.js"
+     ],
+     "module/widget/room/common/full_screen/full_screen.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/header/header.js",
+          "module/widget/player/player.js",
+          "module/widget/chatBox/chatBox.js",
+          "module/common/lv/lv.js",
+          "module/widget/gift/gift.js",
+          "module/widget/loginPannel/loginPannel.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/widget/card/card.js"
+     ],
+     "module/widget/roomUser/roomUser.js": [
+          "module/common/api/api.js",
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/sign/alert/alert.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/sign/schdetail/schdetail.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/sign/schedule/schedule.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/sign/signup/signup.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/sliders/sliders.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/special/categoryInfo/categoryInfo.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/special/dialog/dialog.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/common/api/api.js",
+          "module/model/user/user.js"
+     ],
+     "module/widget/special/rank/rank.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/special/rank-act/rank-act.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/special/rule/rule.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/special/slider/slider.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/special/tab/tab.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/top/top.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/video/video.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js"
+     ],
+     "module/widget/videos/videos.js": [
+          "module/common/baseView/baseView.js",
+          "module/common/syApi/syApi.js",
+          "module/common/util/util.js",
+          "module/common/device/device.js",
+          "module/widget/video/video.js",
+          "module/common/dialog/dialog.js",
+          "module/model/user/user.js",
+          "module/common/api/api.js"
+     ]
+}
